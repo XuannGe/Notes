@@ -79,7 +79,7 @@ warning: You appear to have cloned an empty repository.
 
 
 
-## 参考原文
+## 参考文章
 
 1.[【Git】unable to access https://github.com/xxx/xxx: HTTP/2 stream 1 was not closed cleanly before-CSDN博客](https://blog.csdn.net/m0_47406832/article/details/123044722)
 

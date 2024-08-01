@@ -94,6 +94,6 @@ https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-
 
 
 
-## 参考原文
+## 原文链接
 
-1.[github 配置使用 personal access token 认证_github person token-CSDN博客](https://blog.csdn.net/qq_39218530/article/details/119809170)
+[github 配置使用 personal access token 认证_github person token-CSDN博客](https://blog.csdn.net/qq_39218530/article/details/119809170)

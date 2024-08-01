@@ -39,6 +39,6 @@ git config --global http.version HTTP/1.1
 
 
 
-## 参考原文
+## 原文链接
 
 [【Git】unable to access https://github.com/xxx/xxx: HTTP/2 stream 1 was not closed cleanly before-CSDN博客](https://blog.csdn.net/m0_47406832/article/details/123044722)

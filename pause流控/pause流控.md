@@ -81,6 +81,7 @@ IEEE 802.3 31B.3.7定义了需要等待多少个pause_quanta。一个pause_quant
 ### 4. pause流控处理逻辑
 
 交换机上pause流控的处理逻辑如下图： 
+
 ![](pause流控.assets/2ce2576b09923dd59590412b5171e0e4.png)
 
 **端口级流控：** 
